@@ -9,3 +9,7 @@ var presidents = [
 ];
 
 console.log(presidents[2].firstName + ' ' + [presidents[2].lastName]);
+
+var testing = [
+    {array: 'wassup'}
+]
